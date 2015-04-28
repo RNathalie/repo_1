@@ -1,2 +1,2 @@
 # repo_1
-My first repo (test version)
+My repo (test version)
